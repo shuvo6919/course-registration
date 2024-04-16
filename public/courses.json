@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3001,
+    "title": "Introduction to C Programming",
+    "cover_image": "../../../src/assets/images/cover-1.png",
+    "description": "A beginner's guide to programming in the C language, covering basic syntax and control structures.",
+    "price": 19.99,
+    "credit": 1
+  },
+  {
+    "id": 3002,
+    "title": "Introduction to Algorithms",
+    "cover_image": "../../../src/assets/images/cover-2.png",
+    "description": "Learn the fundamentals of algorithms, including sorting, searching, and graph algorithms, with practical examples.",
+    "price": 24.99,
+    "credit": 2
+  },
+  {
+    "id": 3003,
+    "title": "Introduction to C++ for DSA",
+    "cover_image": "../../../src/assets/images/cover-3.png",
+    "description": "An introduction to C++ programming language with a focus on data structures and algorithms, ideal for competitive programming.",
+    "price": 29.99,
+    "credit": 10
+  },
+  {
+    "id": 3004,
+    "title": "Basic Data Structures",
+    "cover_image": "../../../src/assets/images/cover-4.png",
+    "description": "Learn essential data structures such as arrays, linked lists, and stacks, with clear explanations and hands-on exercises.",
+    "price": 14.99,
+    "credit": 5
+  },
+  {
+    "id": 3005,
+    "title": "Introduction to OOP Python",
+    "cover_image": "../../../src/assets/images/cover-5.png",
+    "description": "Discover the principles of object-oriented programming using Python, with practical examples and real-world applications.",
+    "price": 21.99,
+    "credit": 5
+  },
+  {
+    "id": 3006,
+    "title": "Software Engineering",
+    "cover_image": "../../../src/assets/images/cover-6.png",
+    "description": "Explore software engineering principles, including requirements analysis, design patterns, and testing methodologies, for building robust systems.",
+    "price": 34.99,
+    "credit": 2
+  },
+  {
+    "id": 3007,
+    "title": "AWS and Cloud Computing",
+    "cover_image": "../../../src/assets/images/cover-7.png",
+    "description": "Get an overview of Amazon Web Services (AWS) cloud computing platform and learn about cloud computing technologies and deployment models.",
+    "price": 39.99,
+    "credit": 5
+  },
+  {
+    "id": 3008,
+    "title": "Database (MySQL)",
+    "cover_image": "../../../src/assets/images/cover-8.png",
+    "description": "Introduction to MySQL database management system and SQL, covering database design, querying, and administration.",
+    "price": 23.99,
+    "credit": 5
+  },
+  {
+    "id": 3009,
+    "title": "Problem-Solving Part",
+    "cover_image": "../../../src/assets/images/cover-9.png",
+    "description": "Develop problem-solving skills through practice and analysis of various problems, with strategies for efficient and effective solutions.",
+    "price": 17.99,
+    "credit": 2
+  }
+]
